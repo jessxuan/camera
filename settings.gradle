@@ -1,0 +1,1 @@
+include ':ImageViewTouch', ':StickerCamera', ':Gpu-Image', ':magicfilter', ':app'
